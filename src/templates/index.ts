@@ -1,0 +1,11 @@
+export { IntroductionTemplate } from "./introduction";
+export { HeroTemplate } from "./hero";
+export { ContextTemplate } from "./context";
+export { TargetAudienceTemplate } from "./targetAudience";
+export { HowItWorkTemplate } from "./howsbomwork";
+export { FaqTemplate } from "./faq";
+export { FeaturesTemplate } from "./features";
+export { ContactTemplate } from "./contact";
+export { CapabilitiesTemplate } from "./capabilities";
+export { CtaTemplate } from "./cta";
+export { IntegrationsTemplate } from "./integrations";
